@@ -8,6 +8,7 @@ Enable answer review before final submission (view selected answers, correctness
 Display score and accuracy percentage at the end
 This project strengthened my Python GUI skills, data handling, and clean event-driven programming practices.
 
+
 ✅ Features
 ✅ Category Selection: Python Basics, General Tech, Aptitude
 ✅ 10 MCQs per category
